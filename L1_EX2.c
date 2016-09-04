@@ -16,6 +16,7 @@ w = (sqrt(x/y))*((x+y)/2);
 
 x = pow(x,3) + (x-y);
 
+
 printf ("x é igual a: %d", x);
 printf ("y é igual a: %d", y);
 
