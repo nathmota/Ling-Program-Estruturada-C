@@ -20,3 +20,4 @@ else {
 	}
 printf ("O número menor é %d", menor);
 }
+
